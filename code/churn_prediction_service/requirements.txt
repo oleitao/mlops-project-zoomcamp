@@ -1,0 +1,12 @@
+evidently
+Flask~=2.0.1
+pandas>=2.2
+Werkzeug~=2.0.1
+requests~=2.26.0
+prometheus_client~=0.11.0
+pymongo
+gunicorn
+dataclasses==0.6
+pyyaml>=6.0
+lightgbm==3.2.1
+setuptools<81
